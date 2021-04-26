@@ -1,9 +1,8 @@
 .hello {
-  color: blue; 
-  font-size: 200%; 
+  color: blue;
+  font-size: 200%;
 }
-
 #goodbye {
-  color: aquamarine; 
-  font-size: 100%; 
+  color: red;
+  font-size: 100%;
 }
